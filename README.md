@@ -1,2 +1,3 @@
 # nepal_history_timeline
-Historical events of nepal
+Timeline of Historical events of Nepal
+We collect and visualize the historical events of Nepal.
