@@ -28,18 +28,20 @@
     </style>
     <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
   </head>
   <body>
       <!-- BEGIN Timeline Embed -->
-      <div id="timeline-embed"></div>
+      <div id="timeline-embed" style="width: 100%; height: 100%;"></div>
       <script type="text/javascript">
-        var timeline_config = {
-         width: "100%",
-         height: "100%",
-         source: 'historyofnepal.json'
-        }
+        timeline = new TL.Timeline('timeline-embed',
+            'example.json');
       </script>
-      <script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
+           <!-- 1 -->
+
+      <!-- 2 -->
+      <!--<script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>-->
       
       <!-- END Timeline Embed-->
   </body>

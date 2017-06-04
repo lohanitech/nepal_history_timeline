@@ -1,0 +1,55 @@
+    {
+        "title": {
+				"text": {
+					"headline": "History of Nepal",
+					"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+				}
+			},
+        "events": [
+            {
+                "start_date":{"year": "1764"},
+                "text":{
+					"headline":"Rise of East India Company",
+					"text":"British East India Company gains control of Bengal"
+					},
+                "media":
+                {
+                    "url":"https://www.youtube.com/watch?v=XYNGZHatOHI",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "start_date":{"year": "1768"},
+                
+                "text":{"headline":"Start of Unified Kingdom","text":"Gorkha ruler Prithvi Narayan Shah conquers Kathmandu and lays foundations for unified kingdom"},
+                "media":
+                {
+                    "url":"https://www.youtube.com/watch?v=IleaI0xb37w",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "start_date":{"year": "1769"},
+                "text":{"headline":"Chaudandi and Majh Kirant states","text":"Conquest of Chaudandi and Majh Kirant states"},
+                "media":
+                {
+                    "url":"https://www.youtube.com/watch?v=FQUAqneSJy8",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "start_date":{"year": "1792"},
+                
+                "text": {"headline":"Nepal Tibet War","text":"Nepalese expansion halted by defeat at hands of Chinese in Tibet"},
+                "media":
+                {
+                    "url":"https://www.youtube.com/watch?v=Jw3UoxtbVPU",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
