@@ -1,4 +1,4 @@
-#Nepal History Timeline
+# Nepal History Timeline
 We collect and visualize the historical events of Nepal.
 
 ## How is data organized
